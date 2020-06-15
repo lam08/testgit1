@@ -1,0 +1,19 @@
+提示补全快捷键Class Name Completion         Alt + /
+
+万能解错/生成返回值变量  Alt + Enter 
+查看继承关系 F4
+
+格式化代码(reformat code) ctrl + shift + F
+提示方法参数类型(parameter info) ctrl + alt + / 
+
+查看类的结构   ctrl + o
+重构:修改变量名和方法名(rename) alt + shift + r
+surround  with  :   alt + shift + z
+
+局部变量抽取为成员变量(introduce field) 
+查看方法的多层重写结构 (method hierarchy) 
+抽取方法(Extract Method)   : alt + shift + m
+打开最近修改的文件(Recently Files)  ctrl + e
+
+选择要粘贴的内容 ctrl + shift + v
+查找方法在哪里被调用(Call Hierarchy)  
